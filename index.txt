@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>reg form</title>
+</head>
+<body>
+<img src="Screenshot_2025-05-28-23-14-32 (2).png">
+<h2 >BGMCS</h2>
+<h2><u>about us-</u></h2>
+<p><h3>bgmcs school found in Ethiopia bahirdar.this school provides quality education to all children<br> 
+regardless of color,religin and gender.</p>
+<p>we encourage our students to do their best by testing them properly,providing enough book,offer a variety<br>
+of extracurricular activities,providing positive rainforcement,making learning practical and relatable to their<br>
+lives,constracting digital libraries and we have well organized classrooms,laboratoryes,liberary,recreational</br>
+places and so on.</p>
+<p>we believe that education is not just about acquiring knowledge,but about developing character and preparing for life.<br>
+we are proud to be a community of learners,where studentes faculty and staff work together to create a supportive and inclusive<br>
+ atmosphere.
+</h3>
+<h2><u>why choose us</h2></u>
+<h3>experienced faculty:our faculty is made up of experienced professionals and respected scholars who bring a wealth of knowledge<br>
+and real-world experince to the classroom.their expertise and passion for their fields inspire students to reach their full potential<br>
+and become leaders in their chosen careers.</h3>
+<h2><u>vision</u></h2>
+<h3>our vision is to produce students who are useful for the development of the country</h3>
+<h2><u>mission</u></h2>
+<h3>our primary mission is to educate students,preparing them for lifelong learning and future success</h3>
+<br>
+<video width="320" height="200" controls src="VID_20250528_220454_879.mp4"></video>
+<br>contact us:<br>
+emale-name@gmail.com<br>
+phone number-0900000000<br>
+<a href="students.html">go to registration
+</html>

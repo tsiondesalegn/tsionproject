@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>ICT</title>
+</head>
+<body bgcolor="pink">
+<form>
+name:<br>
+<input type="text" name="yourname">Fname
+<input type="text" name="yourname">Lname<br>
+password:
+<input type="password" name="pwd"><br>
+gender:
+<input type="radio" name="grnder" value="female">female<br>
+<input type="radio" name="grnder" value="male">male
+<br>
+email:
+<input type="mail"placeholder="email" name="gmail"><br>
+phone number:
+<select>
+<option>A355</option>
+<option>A216</option>
+<option>A376</option>
+<option>A1-264</option>
+<option>A1-268</option>
+<option>A54</option>
+<option>A374</option>
+<option>A61</option>
+<option>A43</option>
+<option>A994</option>
+<option>B1-242</option>
+<option>B973</option>
+<option>B880</option>
+<option>B1-246</option>
+<option>B375</option>
+<option>B32</option>
+<option>B501</option>
+<option>B229</option>
+<option>B975</option>
+<option>B591</option>
+<option>B387</option>
+<option>B267</option>
+<option>B55</option>
+<option>B359</option>
+<option>B226</option>
+<option>B257</option>
+<option>C855</option>
+<option>C237</option>
+<option>C1</option>
+<option>C238</option>
+<option>C1-345</option>
+<option>C236</option>
+<option>C235</option>
+<option>C56</option>
+<option>C86</option>
+<option>C57</option>
+<option>C269</option>
+<option>C243</option>
+<option>C242</option>
+<option>C682</option>
+<option>C506</option>
+<option>C385</option>
+<option>C53</option>
+<option>C357</option>
+<option>C420</option>
+<option>D45</option>
+<option>D253</option>
+<option>D1-767</option>
+<option>D1-809,1-849</option>
+<option>E593</option>
+<option>E20</option>
+<option>E503</option>
+<option>E240</option>
+<option>E291</option>
+<option>E371</option>
+<option>E251</option>
+<option>F500</option>
+<option>F298</option>
+<option>F679</option>
+<option>F358</option>
+<option>F33</option>
+<option>G241</option>
+<option>G220</option>
+<option>G995</option>
+<option>G49</option>
+<option>G233</option>
+<option>G350</option>
+<option>G30</option>
+</select>
+<input type="phone" placeholder="56788***" name=""><br>
+date of birth:
+<select>
+<option>1990</option>
+<option>1991</option>
+<option>1992</option>
+<option>1993</option>
+<option>1994</option>
+<option>1995</option>
+<option>1996</option>
+<option>1997</option>
+<option>1998</option>
+<option>1999</option>
+<option>2000</option>
+<option>2001</option>
+<option>2002</option>
+<option>2003</option>
+<option>2004</option>
+<option>2005</option>
+<option>2006</option>
+<option>2007</option>
+<option>2008</option>
+<option>2009</option>
+<option>2010</option>
+<option>2011</option>
+<option>2012</option>
+<option>2013</option>
+<option>2014</option>
+<option>2015</option>
+<option>2016</option>
+<option>2017</option>
+<option>2018</option>
+<option>other</option>
+</select><br>
+nationality:
+<input type="text" name="nation"><br>
+address:
+<input type="text" name="address"><br>
+grade:<br>
+<input type="radio" name="grade" value="9">9
+<input type="radio" name="grade" value="11">11
+<br>
+<input type="radio" name="grade" value="10">10
+<input type="radio" name="grade" value="12">12
+<br>
+profile picture:
+<input type="file" name="profile_pic" accept="image/*"><br>
+<u>payment information</u><br>
+pleace inter your payment details below:
+<input type="text" id="cardnumber" name="cardnumber" required placeholder="1234 5678 9012 3467"><br>
+<input type="submit" value="submit">
+<input type="reset" value="reset">
+</body>
+</html>
+
